@@ -17,6 +17,12 @@ De acuerdo al diagrama de clases (UML), generado en APE - parqueadero, implement
 
 ![Parqueadero](https://github.com/user-attachments/assets/90e5ea42-bee3-4208-b353-e33ee0ecd945)
 
+## Código
+
+Clase Automóvil:
+[Automovil](https://github.com/Dougdree/Parqueadero/blob/develop/Parqueadero/src/Automovil.java)
+
+
 
 ## Reflexión
 
