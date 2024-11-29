@@ -15,7 +15,8 @@ De acuerdo al diagrama de clases (UML), generado en APE - parqueadero, implement
 
 ## Diagrama de Clases
 
-![Parqueadero](https://github.com/user-attachments/assets/90e5ea42-bee3-4208-b353-e33ee0ecd945)
+![Diagrama del Parqueadero](https://github.com/user-attachments/assets/a65b44e6-f2ce-426d-a6bb-2f715f08a085)
+
 
 ## Código
 
